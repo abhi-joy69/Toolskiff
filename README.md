@@ -152,7 +152,7 @@ Some features (like login) work properly only on a web address, so for those, te
 1. Open the repository **Settings**, then **Pages**.
 2. Under **Source**, choose **Deploy from a branch**.
 3. Select the `main` branch and the `/ (root)` folder, then save.
-4. After about a minute, the site is live at `https://YOURNAME.github.io/toolskiff/`.
+4. After about a minute, the site is live at `https://abhi-joy69.github.io/toolskiff/`.
 
 ---
 
